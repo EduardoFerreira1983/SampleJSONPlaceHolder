@@ -1,0 +1,114 @@
+{
+    "commercial":[
+        {
+            "id": 1,
+            "title": "Contrato de Locação Comercial por Tempo Determinado",
+            "text": ""
+        },
+        {
+            "id": 2,
+            "title": "Pessoa Física",
+            "text": "<p><Nome>, <nacionalidade>, <estado civil>, <profissão>, inscrito no CPF sob o nº <N. do CPF>, e no RG sob o nº <n. do RG>, residente e domiciliado(a) <endereço, constando rua, número e complemento, bairro, município e estado>, CEP:<CEP>, E-mail: <e-mail>.</p>"
+        },
+        {
+            "id": 3,
+            "title": "Pessoa Jurídica",
+            "text": "<p><Nome empresarial>, pessoa jurídica de direito <público ou privado>, inscrita no CNPJ sob o nº <n. CNPJ>, com sede ao <endereço, constando rua, número e complemento, bairro, município e estado>, CEP:<CEP>, E-mail: <e-mail>, neste ato representada por <Nome>, <nacionalidade>, <estado civil>, <profissão>, inscrito no CPF sob o nº <N. do CPF>, e no RG sob o nº <n. do RG>, residente e domiciliado(a) <endereço, constando rua, número e complemento, bairro, município e estado>, CEP:<CEP>, E-mail: <e-mail>, nos termos de documento <Contrato Social, procuração ou qualquer documento legítimo de representação que segue anexo ao contrato> anexo ao presente contrato. **Todas doravante denominadas “a$ parte$ LOCATÁRIA$”, e “a$ parte$ LOCADORA$”.**</p>"
+        },
+        {
+            "id": 4,
+            "title": "Prazo do contrato",
+            "text": "<p>O prazo de locação é de <número de meses> meses, inicia em <dia> de <mês> de <ano>, e, termina de pleno direito, em <dia> de <mês> de <ano>, independentemente de notificação ou aviso judicial ou extrajudicial. As partes acordam que a cobrança do aluguel incidirá a partir do dia <dia> de <mês> de <ano>.</p>"
+        },
+        {
+            "id": 5,
+            "title": "valor inicial do contrato, índice de atualização e multa",
+            "text": "<p>O valor inicial do presente contrato é de R$ <valor numérico em reais e centavos> mensais, e vence no <dia mensal de vencimento (número ordinario)> dia de cada mês, devendo ser pago até o dia <dia do pagamento do vencimento> do mês seguinte ao vencido, via <descrição do método de pagamento>. <Metodologia de acesso ao meio de pagamento (ex: se for boleto, o acesso pode ocorrer por meio de envio de e-mail por parte$ da$ LOCADORA$)></p><p>Parágrafo Primeiro</p>.<p>Os aluguéis e encargos que não forem quitados dentro deste prazo serão corrigidos monetariamente e acrescidos da multa de <multa em valor numérico percentual>% (<valor por extenso da multa> por cento), além de juros moratórios de <valor numérico percentual dos juros moratórios>% (<valor por extenso do percentual de juros moratórios> por cento) ao mês e correção monetária calculada pelo <nome do índice de correção monetária>. Fica esclarecido que a tolerância de <quantidade de dias de tolerância> dias pressupõe a inexistência de débito do mês anterior.</p><p>Parágrafo Segundo</p><p>Caso seja verificada pendência de aluguéis dos meses anteriores, o boleto de cobrança do próximo vencimento deverá ser retirado na sede da Administradora.</p>" 
+        },
+        {
+            "id": 6,
+            "title": "Obrigações de adimplementos da contratante",
+            "text": "<p>Os impostos municipais (IPTU), taxas e despesas ordinárias de condomínio, taxa de coleta de lixo, que incidam ou venham a incidir sobre o imóvel, deverão ser pagos pela$ LOCATÁRIA$ pontualmente quando de seus respectivos vencimentos, nas Repartições Públicas competentes, ao Síndico, ou à Administradora do Condomínio, conforme o caso, e apresentar o comprovante do pagamento sempre que solicitado; além disso, tendo em vista o disposto no artigo 13 da Lei nº 4591/64(Lei do Condomínio em Edificações) e no artigo 22, VIII, da Lei nº 8245/91, pagará o locatário, anualmente, desde o início da locação, o prêmio de seguro contra fogo, inclusive o complementar, relativo ao imóvel, seguro esse que será feito pela$ LOCADORA$, em companhia seguradora de sua confiança, em valor que, na ocorrência do sinistro, lhe garanta adequada indenização.</p><p>Parágrafo Primeiro</p><p>Responderá a$ LOCATÁRIA$ e fiador(es) pelo danos ocasionados por incêndio que por ventura venha a ocorrer no imóvel, se não provar caso fortuito ou de força maior, vício de construção ou propagação de fogo vindo de outra unidade ou prédio.</p><p>Parágrafo Segundo</p><p>Na hipótese de serem os encargos pagos pela$ LOCADORA$, por motivo de a$ LOCATÁRIA$ não o terem feito nos prazos devidos, serão os devidos valores reembolsados por este, com o acréscimo de multa de <multa em valor numérico percentual>% (<valor por extenso da multa> por cento), além de juros moratórios de <valor numérico percentual dos juros moratórios>% (<valor por extenso do percentual de juros moratórios> por cento) ao mês, além de correção monetária calculada pelos mesmos índices do reajuste do aluguel; assumindo a$ LOCATÁRIA$ a responsabilidade pelos riscos e danos ocorridos caso não tenha pago e vier a ocorrer algum sinistro.</p>" 
+        },
+        {
+            "id": 7,
+            "title": "Reajuste anual do aluguel",
+            "text": "<p>O aluguel convencionado terá reajuste anual de acordo com a variação do <descrever índice>; ou ainda, na falta do índice mencionado nesta cláusula, o aluguel será reajustado pela variação por ordem sucessiva do <descrever índices subsidiários>.</p><p>Parágrafo Único</p><p>Se em virtude de lei subseqüente, vier a ser admitida a correção do valor do aluguel em periodicidade inferior à prevista na legislação vigente, concordam as partes que a correção do aluguel aqui fixado e seu indexador passará automaticamente a ser feito no menor prazo que for permitida pela lei posterior.</p>" 
+        },
+        {
+            "id": 8,
+            "title": "Retomada imóvel",
+            "text": "<p>Antes do vencimento do prazo ajustado na cláusula primeira, não poderá a$ LOCADORA$ retomar o imóvel, salvo se motivado por infração contratual da$ LOCATÁRIA$ e nem poderá esse último devolvê-lo à$ LOCADORA$, sob pena de pagamento de multa equivalente a <multa em número de meses (por extenso) de aluguel> (<representação numérica do número de meses da multa>) meses de aluguel reduzida segundo a proporcionalidade prevista no art. 413 do Código Civil; também não poderá restituí-lo durante o período de prorrogação da locação por prazo indeterminado, sem avisar a$ LOCADORA$, por escrito, com antecedência mínima de trinta dias, ou deverá pagar o aluguel e os encargos pelo prazo do aviso.</p><p>Parágrafo Único</p><p>Decorridos 12 (doze) meses do início da locação, ou estando o contrato vigindo por prazo indeterminado, a$ LOCATÁRIA$ poderá$ão$ rescindir a locação, mediante aviso por escrito à$ LOCADORA$, com antecedência mínima de 30 (trinta) dias.  A falta de aviso obriga a$ LOCATÁRIA$ ao pagamento de um mês de aluguel e encargos vigentes na data da rescisão, conforme previsto no parágrafo único do artigo 6º  da Lei 8.245/91.</p>" 
+        },
+        {
+            "id": 9,
+            "title": "Finalidade do imóvel",
+            "text": "<p>O imóvel é locado exclusivamente para fins comerciais, ficando proibido, sob pena de rescisão contratual, a mudança de destinação, a cessão da locação, a sublocação e o empréstimo do prédio, sejam totais ou parciais, sem prévio consentimento da$ LOCADORA$, dado unicamente por escrito.</p><p>Parágrafo Primeiro</p><p>No caso de locação em prédio constituído de unidades autônomas da$ mesma$ LOCADORA$, inexistindo condomínio registrado, fica a$ LOCATÁRIA$ obrigada ao pagamento dos encargos verificados com a manutenção do imóvel, proporcionalmente à área de ocupação (art. 23 da Lei 8.245/91).</p>" 
+        },
+        {
+            "id": 10,
+            "title": "Obrigatoriedade de aviso para benfeitorias",
+            "text": "<p>É vedado a$ LOCATÁRIA$, sob pena de rescisão da locação, fazer no prédio e em suas dependências quaisquer benfeitorias ou alterações, sem prévio consentimento escrito da LOCADORA$, o qual se reserva o direito de realizar as benfeitorias necessárias. Em consequência do descumprimento da primeira parte da presente cláusula, a$ LOCATÁRIA$ perde$ direito a indenização ou retenção pelas benfeitorias que, venha a efetuar.</p>" 
+        },
+        {
+            "id": 11,
+            "title": "Da vistoria",
+            "text": "<p>A$ LOCATÁRIA$ declara que examinou previamente o imóvel e que este encontra-se em boas condições de uso e de higiene, com suas dependências pintadas e reparadas, de conformidade com a relação escrita (ficha de vistoria) que, assinada pelas partes, integra este contrato, e na qual faz expressa referência aos eventuais defeitos existentes, e obriga-se a zelar por sua boa conservação e a fazer de imediato e por sua conta todas as reparações dos estragos a que der causa no curso da locação, de modo especial as referentes a vazamentos e obstruções que venham a surgir no sistema de água e esgotos, devendo restituir o prédio, no fim da locação, com a pintura nova, usando tinta da mesma cor e qualidade das usadas na pintura anterior, e os demais itens no mesmo estado em que o recebeu, inteiramente livre de coisas ou pessoas.</p><p>Parágrafo Primeiro</p><p>Caso restem no imóvel por ocasião da entrega das chaves, quaisquer pertences não retirados pela$ LOCATÁRIA$, tais como livros, roupas, móveis, eletrodomésticos, prateleiras, mercadorias, letreiros, placas de propaganda, luminosos, etç,  serão considerados “restos descartáveis” destituídos de valor comercial, ficando desde já autorizada sua retirada como lixo, bem como a limpeza do imóvel, correndo todas as despesas por conta da$ LOCATÁRIA$.  Ocorrendo infiltrações de água ou umidade de ou para apartamento vizinho, o fato deverá ser comunicado, de imediato, à LOCADORA$, para as providências cabíveis.</p><p>Parágrafo Segundo</p> <p>Na hipótese da$ LOCATÁRIA$ abandonar o imóvel, fica(m) a$ LOCADORA$ ou a Administradora, autorizados a imitirem-se na posse do imóvel, a fim de evitar a depreciação ou invasão do mesmo.  O termo de recebimento das chaves será substituído por uma “Declaração de Imissão de Posse”, firmado pela$ LOCADORA$ ou pela Administradora, juntamente com duas testemunhas idôneas.</p><p>Parágrafo Terceiro </p><p>Ao final do contrato, se as chaves forem restituídas por preposto ou portador, fica este, desde já, autorizado a assinar o respectivo Termo de Recebimento de Chaves, assim como acompanhar e assinar o Laudo de Vistoria em nome da$ LOCATÁRIA$. </p><p>Parágrafo Quarto</p><p>Na entrega das chaves, se o imóvel não estiver em perfeito estado, como o do início do contrato, a$ LOCATÁRIA$ autoriza a$ LOCADORA$ ou a Administradora do imóvel, a efetuar os consertos, pintura, substituição de vidros e outros itens necessários a repô-lo ao estado ou condições pactuados na ficha de vistoria, e exigir a cobrança das notas fiscais e recibos de mão de obra correspondentes.<p/><p>Parágrafo Quinto</p><p>A aceitação das chaves pela LOCADORA$, ou pela Administradora, seja amigável ou judicialmente, não implica na renúncia em receber valores de locativos ou encargos em atraso, nem desobriga a$ LOCATÁRIA$ a realizar os eventuais reparos necessários no imóvel.</p>" 
+        },
+        {
+            "id": 12,
+            "title": "Responsabilidade pelo mantimento da paz",
+            "text": "<p>A$ LOCATÁRIA$ se obriga$, por si bem como pelos seus clientes ou freqüentadores do imóvel locado, sob pena de rescisão da locação, a respeitar e fazer respeitar o direito de vizinhança e os regulamentos porventura existentes, evitando a prática de atos desabonatórios, que possam perturbar a tranquilidade, a moral  e os bons costumes, devendo responder pelas multas eventualmente aplicadas. O descumprimento da primeira parte da presente cláusula pode configurar infração contratual, possibilitando a$ LOCADORA$ requerer a rescisão da locação, nos termos do inciso II, do artigo 9º da Lei 8.245/91.</p>" 
+        },
+        {
+            "id": 13,
+            "title": "Proibição de materiais inflamáveis, corrosivos ou explosivos",
+            "text": "<p>No imóvel locado não é permitido depositar materiais inflamáveis, explosivos ou corrosivos, nem cortar ou danificar árvores por acaso existentes, ficando o locatário responsável pelos danos que causar.</p>" 
+        },
+        {
+            "id": 14,
+            "title": "Rescisão de pleno direito - não anula o resto do contrato",
+            "text": "<p>Constituem casos de rescisão, de pleno direito, do presente contrato, além dos indicados nas cláusulas anteriores e na Lei,  os seguintes:</p> <ul><li>falta de pagamento dos aluguéis e encargos fixados na cláusula @ #ligar à cláusula de aluguéis;</li><li>se, ocorrendo morte, ausência, interdição, falência, insolvência, ou exoneração de qualquer dos fiadores, alienação, desapropriação ou gravação dos respectivos imóveis, desaparecimento dos seus bens móveis, ou mudança de residência sem comunicação ao locador, não lhe for dado substituto idôneo no prazo máximo de 15(quinze) dias da ocorrência;</li><li>desapropriação do imóvel locado, ou incêndio que impeça o seu uso;</li><li>abandono do imóvel ou descaso manifesto do inquilino pela sua conservação;</li><li>se o locatário impedir interessados na compra do prédio, caso este seja posto à venda, ou se recusar a concordar com horário razoável para as visitas, sempre considerando o art. 23, IX, da Lei 8.245/91.</li></ul>" 
+        },
+        {
+            "id": 15,
+            "title": "Das notificações",
+            "text": "<p>Fica acordado que nos procedimentos judiciais relativos a ações de despejos, consignação em pagamento de aluguéis e acessórios da locação, revisionais de aluguel e renovatórias de locação, a citação, intimação ou notificação serão feitas mediante correspondência com aviso de recebimento (AR) ou, tratando-se de pessoa jurídica ou firma individual, também mediante telex ou fac-símile ou, ainda, sendo necessário, pelas demais formas previstas no Código de Processo Civil.</p>" 
+        },
+        {
+            "id": 16,
+            "title": "Obrigações ao tempo de encerramento",
+            "text": "<p>Ao encerrar-se a locação, deverá a$ LOCATÁRIA$ apresentar juntamente com as chaves:</p> <ul><li>certidão negativa do Município referente ao IPTU;</li><li>extrato de consulta de contas atrasadas na <nome da empresa responsável por distribuição de água>;</li><li>recibos do corte e da conta final da <nome da empresa responsável por distribuição de energia>;</li><li>declaração do Síndico/Administradora do condomínio de que nada deve até a data de desocupação do imóvel; </li><li>entregar carnês de impostos ou taxas em seu poder do que se dará ciência na rescisão; </li><li>antes de devolver o imóvel, deverá a LOCATÁRIA$ fazer os reparos que forem necessários para repô-lo no estado em que foi locado, somente cessando a fluência dos aluguéis e encargos, ou dos valores a eles correspondentes, quando o imóvel finalmente se encontrar nas condições devidas, e uma vez satisfeitas as demais exigências acima especificadas.</li></ul>" 
+        },
+        {
+            "id": 17,
+            "title": "Da cláusula penal",
+            "text": "<p>A falta de cumprimento de qualquer cláusula contratual sujeitará o infrator a uma multa no valor de <quantidade de meses> meses de aluguel atualizado, em benefício da outra parte, sem prejuízo da exigibilidade das demais penalidades constantes neste instrumento, especialmente dos honorários advocatícios, que serão devidos sempre que houver intervenção de advogado, desde já fixados em <porcentagem>% (por cento) do valor do débito atualizado, se ocorreu composição amigável, ou de <porcentagem>% (por cento) do valor atualizado da causa na hipótese de procedimento judicial, além das custas processuais.</p>" 
+        },
+        {
+            "id": 18,
+            "title": "Garantia - Seguro Fiança",
+            "text": "<p>O presente contrato considera o documento anexo de Seguro Fiança, formulado de comum acordo entre LOCADORA$ e LOCATÁRIA$ para os fins de garantia o presente contrato.</p><p>Parágrafo Primeiro</p><p>A renovação do contrato se condiciona à renovação do seguro fiança tratado na presente cláusula, não sendo nenhuma das partes obrigada a aceitar que os termos do contrato de fiança sejam mantidos ou modificados à data da nova contratação.</p><p>Parágrafo Segundo</p><p>Qualquer irregularidade no contrato ou no cumprimento do contrato de fiação por parte da$ LOCATÁRIA$, possibilita que a$ LOCADORA$ rescinda$m$ o presente contrato.</p>" 
+        },
+        {
+            "id": 19,
+            "title": "Garantia - Depósito Caução",
+            "text": "<p>A$ LOCATÁRIA$ deposita$m$, a título de caução, no valor de R$ <valor em reais da caução>, equivalente a <número de meses que o valor representa> meses de aluguel, sendo essa caução feita à título de garantia do presente contrato, por meio de entrega direta do valor para a$ LOCADORA$.</p><p>Parágrafo Primeiro</p><p>O valor da caução deve ser depositado em conta poupança da$ LOCADORA$, sendo a devolução do valor condicionada ao adimplemento do valor corrigido pelo próprio depósito. Pode$m$ a$ LOCATÁRIA$ pedir extrato do valor de caução atualizado, constando os juros aplicados ao valor, e os usos feitos pela$ LOCADORA$.</p><p>Parágrafo Segundo</p><p>O valor da caução será utilizado em toda e qualquer hipótese no qual se fizer necessário o uso de recursos provenientes da$ LOCATÁRIA$. Toda a vez que o recurso for utilizado, a$ LOCADORA$ deve$m$ notificar a$ LOCATÁRIA$ para que o valor seja reposto no prazo máximo de <prazo máximo em dias para a reposição do valor> dias, sob pena de descumprimento do presente contrato.</p><p>Parágrafo Terceiro</p><p>O valor da caução se atualiza junto com a atualização dos valores cobrados nos vencimentos do presente contrato.</p><p>Parágrafo Quarto</p><p>Caso haja saldo dos valores de caução ao fim da relação aqui estabelecida entre as partes, deve$m$ a$ LOCADORA$ efetuar$em$ a devolução dos valores atualizados nos termos do depósito descrito.</p>" 
+        },
+        {
+            "id": 20,
+            "title": "Demais estipulações",
+            "text": "<p>Fica acordado e esclarecido que:</p><ul><li>o recibo do aluguel vale para o mês a que se refere e não prova pagamento dos meses anteriores, nem quitação de majorações e encargos que não tenham sido cobrados na época própria;</li><li>não poderá a$ LOCATÁRIA$ sustar o pagamento de aluguéis e encargos sob o pretexto de não ter sido atendido em alguma exigência ou solicitação feita;</li><li>salvo declaração escrita da$ LOCADORA$, quaisquer tolerâncias ou concessões por ele feitas não implicam em renúncia de direitos ou em alterações contratuais, não podendo ser invocada pela$ LOCATÁRIA$ como procedentes para se furtar ao cumprimento do contrato;</li><li>se o recibo do aluguel for enviado ao domicílio do inquilino, para pagamento na rede bancária, e ele não o recebeu em tempo hábil, deverá comparecer à caixa da Imobiliária e retirar a segunda via para efetuar o pagamento em rede bancária no prazo fixado na cláusula segunda;</li><li>nas ações de despejo por falta de pagamento, não se admitirá a emenda de mora se a$ LOCATÁRIA$ já houver utilizado essa faculdade por duas vezes nos doze meses imediatamente anteriores à propositura da ação;</li><li>é assegurado à$ LOCADORA$ e a sua mandatária o direito de vistoriar o prédio sempre que julgarem conveniente.</li></ul>" 
+        },
+        {
+            "id": 21,
+            "title": "Da substituição da$ LOCATÁRIA$ pelos fiadores",
+            "text": "<p>Se a$ LOCATÁRIA$ não for(em) encontrado(s) nos endereços constantes do cadastro que serviu para elaboração deste contrato, desde já e por este instrumento, constitui como seus procuradores, o(s) fiador(es) da locação citados e qualificados acima, para o fim específico de representá-lo, individualmente ou em conjunto, em quaisquer ações judiciais relacionadas com este contrato, conferindo-lhe(s) poderes amplos e especiais para receber citações, inclusive a inicial,  notificações e intimações, bem como para confessar e reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a ação, firmar compromissos, acordos, e devolver o imóvel no caso de abandono, ainda que seja necessário a retirada de móveis que o guarnecem bem como para rescindir o contrato de locação.</ul>" 
+        },
+        {
+            "id": 22,
+            "title": "Do Foro",
+            "text": "<p>Para dirimir eventuais questões relacionadas com este contrato, elegem as partes o foro da Comarca de <nome da comarca> e renunciam a qualquer outro, por mais especial que seja, e assim, justos e contratados, assinam este instrumento em duas vias, com duas testemunhas, na forma e para os fins de direito.</p>" 
+        } 
+    ]
+}
